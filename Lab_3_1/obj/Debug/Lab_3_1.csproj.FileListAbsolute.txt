@@ -1,0 +1,14 @@
+C:\БГУиР\СВПП\Lab\Lab_3_1\bin\Debug\Lab_3_1.exe.config
+C:\БГУиР\СВПП\Lab\Lab_3_1\bin\Debug\Lab_3_1.exe
+C:\БГУиР\СВПП\Lab\Lab_3_1\bin\Debug\Lab_3_1.pdb
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1.csprojAssemblyReference.cache
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\MainWindow.g.cs
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\App.g.cs
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1_MarkupCompile.cache
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1_MarkupCompile.lref
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\MainWindow.baml
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1.g.resources
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1.Properties.Resources.resources
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1.csproj.GenerateResource.cache
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1.exe
+C:\БГУиР\СВПП\Lab\Lab_3_1\obj\Debug\Lab_3_1.pdb
